@@ -1,0 +1,1 @@
+const evenOdds = (numb) => numb % 2 === 0 ? 'even' : 'odds';
